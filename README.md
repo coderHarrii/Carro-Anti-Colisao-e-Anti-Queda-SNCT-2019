@@ -1,0 +1,2 @@
+# Carro-Anti-Colisao-e-Anti-Queda-SNCT-2019
+O projeto integrador desenvolvido por mim, por Gustavo Paschoal Policichio Silva e João Victor Nunes Coelho, juntamente com o tutor Ivan Lucas, durante nosso período de estudos do curso técnico de Automação Industrial no IFSP campus São José dos Campos, visava atender os requisitos da Bioeconomia, Diversidade e Riqueza para o Desenvolvimento Sustentável, tema da Semana Nacional de Ciência e Tecnologia de 2019.

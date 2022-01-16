@@ -1,7 +1,7 @@
 /*____________________________________________________________________________________________________
 
-OBS: Esta é a versão mais atualizada que encontrei no pendrive, em breve providencio a versão
-utilizada na apresentação final
+OBS: Esta é a versão mais atualizada que encontrei no pendrive, em breve providencio a versão final
+utilizada na apresentação do projeto
 _____________________________________________________________________________________________________*/
 
 #include <Ultrasonic.h>

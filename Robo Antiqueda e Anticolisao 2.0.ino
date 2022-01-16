@@ -1,3 +1,4 @@
+//OBS: Esta é a versão mais atualizada que encontrei no pendrive, em breve providencio a versão final
 #include <Ultrasonic.h>
 #include <Servo.h>
 #define pino_trigger 9 //Sensor de Cima
